@@ -16,7 +16,7 @@ Alur kerja (*pipeline*) pemrosesan data dalam proyek ini dapat diadaptasi untuk 
 4. **Klasifikasi (K-NN):** Membangun model prediktif menggunakan algoritma *K-Nearest Neighbors* (K-NN) dengan mengoptimalkan perhitungan jarak *Euclidean* pada nilai ketetanggaan optimal (K=18).
 
 ## 🛠️ Teknologi & Perangkat (*Tech Stack*)
-* **Bahasa Pemrograman:** [Python / MATLAB] *(Pilih salah satu sesuai yang Anda gunakan)*
+* **Bahasa Pemrograman:** Python
 * **Data Manipulation & Math:** NumPy, Pandas, SciPy
 * **Machine Learning:** Scikit-Learn
 * **Data Visualization:** Matplotlib, Seaborn
@@ -33,7 +33,5 @@ Hasil ini membuktikan bahwa kombinasi FFT dan algoritma klasifikasi dasar yang d
 ```text
 ├── data/                   # Dataset (pastikan untuk tidak mengunggah data sensitif/pribadi)
 ├── notebooks/              # Jupyter Notebook berisi eksperimen dan Exploratory Data Analysis (EDA)
-├── src/                    # Script kode utama (preprocessing, FFT extraction, model training)
-├── results/                # Output visualisasi (grafik sinyal, Confusion Matrix)
-├── README.md               # Dokumentasi proyek
-└── requirements.txt        # Daftar library yang dibutuhkan
+└── README.md               # Dokumentasi proyek
+ 
