@@ -31,6 +31,7 @@ Hasil ini membuktikan bahwa kombinasi FFT dan algoritma klasifikasi dasar yang d
 
 ## 📂 Struktur Direktori
 ```text
+├── data/                   # Dataset 
 ├── notebooks/              # Jupyter Notebook berisi eksperimen dan Exploratory Data Analysis (EDA)
 └── README.md               # Dokumentasi proyek
  
